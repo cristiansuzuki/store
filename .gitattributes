@@ -1,0 +1,4 @@
+$ cat .gitattributes
+*.js linguist-language=Python
+*.html linguist-language=Python
+*.css linguist-language=Python
